@@ -1,8 +1,11 @@
-# Penguins web app deployed on Heroku
+# Grades Predictor
 
-The deployed web app is live at https://dp-penguins.herokuapp.com/
+The deployed web app is live at https://grades-predictor.herokuapp.com/
 
-This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
+### Aim
+- Using a **Linear regression** model to predict a student's grade based on provided parameters.
+
+Data provided from [*Student Performance Data Set*](https://archive.ics.uci.edu/ml/machine-learning-databases/00320/) from the [*UCI Machine Learning Repository*](https://archive.ics.uci.edu/).
 
 The web app was built in Python using the following libraries:
 * streamlit
