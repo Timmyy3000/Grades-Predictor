@@ -1,6 +1,6 @@
 # Grades Predictor
 
-The deployed web app is live at https://grades-predictor.herokuapp.com/
+The deployed web app is live, [here](https://share.streamlit.io/timmyy3000/grades-predictor/main/app.py)
 
 ### Aim
  Using a **Linear regression** model to predict a student's grade based on provided parameters.
