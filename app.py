@@ -9,7 +9,14 @@ data = pd.read_csv('student-mat.csv', sep=";")
 st.write("""
 # Grade Predictor
 ### Aim
-- Using a **Linear regression** model to predict a student's grade based on provided parameters.
+ Using a **Linear regression** model to predict a student's grade based on provided parameters.
+
+- Study time
+- Absences
+- Failures
+- Past grades
+
+*Find my github repository for this project [here](https://github.com/Timmyy3000/Grades-Predictor)*
 
 Data provided from [*Student Performance Data Set*](https://archive.ics.uci.edu/ml/machine-learning-databases/00320/) from the [*UCI Machine Learning Repository*](https://archive.ics.uci.edu/).
 """)
